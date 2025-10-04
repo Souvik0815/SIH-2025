@@ -39,11 +39,11 @@ const Layout = ({ children }) => {
             <div className="flex items-center">
               <div className="flex-shrink-0">
                 <div className="h-8 w-8 bg-primary-600 rounded-lg flex items-center justify-center">
-                  <span className="text-white font-bold text-sm">NBCFDC</span>
+                  <span className="text-white font-bold text-sm">CREDSENSE</span>
                 </div>
               </div>
               <div className="ml-3">
-                <h1 className="text-lg font-semibold text-gray-900">Credit Scoring</h1>
+                <h1 className="text-lg font-semibold text-gray-900">CREDSENSE</h1>
               </div>
             </div>
             <button
@@ -83,11 +83,11 @@ const Layout = ({ children }) => {
             <div className="flex items-center">
               <div className="flex-shrink-0">
                 <div className="h-8 w-8 bg-primary-600 rounded-lg flex items-center justify-center">
-                  <span className="text-white font-bold text-sm">NBCFDC</span>
+                  <span className="text-white font-bold text-sm">CREDSENSE</span>
                 </div>
               </div>
               <div className="ml-3">
-                <h1 className="text-lg font-semibold text-gray-900">Credit Scoring</h1>
+                <h1 className="text-lg font-semibold text-gray-900">CREDSENSE</h1>
               </div>
             </div>
           </div>
