@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/credsense/static/css/main.810d6dc5.css",
+    "main.js": "/credsense/static/js/main.7123ba27.js",
+    "index.html": "/credsense/index.html",
+    "main.810d6dc5.css.map": "/credsense/static/css/main.810d6dc5.css.map",
+    "main.7123ba27.js.map": "/credsense/static/js/main.7123ba27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.810d6dc5.css",
+    "static/js/main.7123ba27.js"
+  ]
+}
